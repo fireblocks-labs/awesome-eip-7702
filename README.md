@@ -14,6 +14,7 @@
 ## Guides
 - [Safe: EIP-7702 A Win for Smart Accounts in Ethereum’s Pectra Upgrade?](https://safe.global/blog/eip-7702-smart-accounts-ethereum-pectra-upgrade) - An overview of how EIP-7702 powers more flexible and secure smart accounts through the Ethereum PECTRA upgrade.
 - [ZeroDev: What does EIP-7702 mean for YOU? Part 1](https://docs.zerodev.app/blog/7702-adoption) - A concise guide to the growing adoption of EIP-7702 and its impact on the future of account abstraction.
+- [Alchemy: EIP-7702 and How You Should Prepare for the Pectra Hardfork](https://www.alchemy.com/blog/eip-7702-ethereum-pectra-hardfork?utm_source=what_is_7702) - Consideration towards choosing tech stack with 7702 and 4337 as options.
 - [Alchemy: What EIP-7702 Means for MetaMask and Other Wallets](https://www.alchemy.com/blog/eip-7702-metamask-and-wallets) - A look at how EIP-7702 changes the landscape for MetaMask and other wallets by introducing smart account capabilities.
 - [Rhinestone: Getting Smart Accounts EIP-7702 Ready](https://blog.rhinestone.wtf/getting-smart-accounts-eip-7702-ready-27bf028a21c9) - Practical insights on preparing smart account implementations for EIP-7702 compatibility.
 - [Rhinestone: Using EIP-7702 with ERC-7579 modular smart accounts](https://docs.rhinestone.wtf/module-sdk/account-guides/eip-7702) - A walkthrough of implementing EIP-7702 in code
@@ -29,6 +30,11 @@
 
 
 ## Code
+> [!CAUTION]
+> All of this repo contributors and authors do not take responsbility for any of the code examples in here.
+> Many of them are not audited and should not be used in production code.
+> This is for educational and inspirational purposes only!
+
 ### EIP-7702 Proxies
 - https://github.com/Vectorized/solady/blob/main/src/accounts/EIP7702Proxy.sol
 - https://github.com/base/eip-7702-proxy
@@ -43,6 +49,10 @@
 ### Tooling support
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
 - [Foundry Delegation Signatures](https://book.getfoundry.sh/cheatcodes/sign-delegation)
+- [Dynamic EIP-7702 support](https://docs.dynamic.xyz/smart-wallets/smart-wallet-providers/7702#eip-7702)
+
+### Smart account frameworks
+- [Metamask: Delegation Framework](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702)
 
 ## Other
 - [Awesome account abstraction repo (EIP-4337)](https://github.com/4337Mafia/awesome-account-abstraction)
