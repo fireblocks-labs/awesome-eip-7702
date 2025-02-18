@@ -18,6 +18,7 @@
 - [EIP-7702: A Deep Dive into Smart EOAs with Implementation Examples
  by Colin](https://hackmd.io/@colinlyguo/SyAZWMmr1x) - A technical deep dive into the technical considerations and potential use cases around EIP-7702.
 - [Tenderly: EIP-7702 How Ethereum’s New Upgrade Brings EOAs Closer to Smart Contracts](https://blog.tenderly.co/how-eip-7702-gives-eoas-smart-contract-functionalities/) - A detailed exploration of how EIP-7702 bridges the gap between externally owned accounts and smart contracts.
+- [Ambire: EIP-7702 Opening the Door to Account Abstraction](https://blog.ambire.com/eip-7702-allowing-account-abstraction/) - EIP-7702 and its practical implications for account abstraction adoption
 
 
 ## Videos
