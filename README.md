@@ -24,6 +24,7 @@
 
 
 ## Videos
+- [EIP 7702: High level overview + walkthrough of every line of code in the evm (using revm codebase) that changes with it](https://youtube.com/playlist?list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE&si=7RGnFDoBQ57i5yII)
 - [EIP-7702: a technical deep dive by lightclient | Devcon SEA](https://www.youtube.com/watch?v=_k5fKlKBWV4)
 - [Age of Account Collaboration: EOA and SCA make friends again by Arik Galansky | EthCC[8] ](https://ethcc.io/archives/age-of-account-collaboration-eoa-and-sca-make-friends-again)
 
