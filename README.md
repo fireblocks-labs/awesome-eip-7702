@@ -42,6 +42,7 @@
 
 ### Tooling support
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
+- [Foundry Delegation Signatures](https://book.getfoundry.sh/cheatcodes/sign-delegation)
 
 ## Other
 - [Awesome account abstraction repo (EIP-4337)](https://github.com/4337Mafia/awesome-account-abstraction)
