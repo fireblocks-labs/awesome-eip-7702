@@ -15,6 +15,7 @@
 - [ZeroDev: What does EIP-7702 mean for YOU? Part 1](https://docs.zerodev.app/blog/7702-adoption) - A concise guide to the growing adoption of EIP-7702 and its impact on the future of account abstraction.
 - [Alchemy: What EIP-7702 Means for MetaMask and Other Wallets](https://www.alchemy.com/blog/eip-7702-metamask-and-wallets) - A look at how EIP-7702 changes the landscape for MetaMask and other wallets by introducing smart account capabilities.
 - [Rhinestone: Getting Smart Accounts EIP-7702 Ready](https://blog.rhinestone.wtf/getting-smart-accounts-eip-7702-ready-27bf028a21c9) - Practical insights on preparing smart account implementations for EIP-7702 compatibility.
+- [Rhinestone: Using EIP-7702 with ERC-7579 modular smart accounts](https://docs.rhinestone.wtf/module-sdk/account-guides/eip-7702) - A walkthrough of implementing EIP-7702 in code
 - [EIP-7702: A Deep Dive into Smart EOAs with Implementation Examples
  by Colin](https://hackmd.io/@colinlyguo/SyAZWMmr1x) - A technical deep dive into the technical considerations and potential use cases around EIP-7702.
 - [Tenderly: EIP-7702 How Ethereum’s New Upgrade Brings EOAs Closer to Smart Contracts](https://blog.tenderly.co/how-eip-7702-gives-eoas-smart-contract-functionalities/) - A detailed exploration of how EIP-7702 bridges the gap between externally owned accounts and smart contracts.
@@ -34,6 +35,7 @@
 - Ithaca Demos:
   - [EXP-0001: Account Delegation with EIP-7702 - Ithaca](https://www.ithaca.xyz/writings/exp-0001)
   - [EXP-0002: App Sessions - Ithaca](https://www.ithaca.xyz/writings/exp-0002)
+- [Rhinestone Demo](https://module-demos.rhinestone.wtf/eip-7702)
 
 ### Tooling support
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
@@ -41,3 +43,4 @@
 ## Other
 - [Awesome account abstraction repo (EIP-4337)](https://github.com/4337Mafia/awesome-account-abstraction)
 - [eip7702.io](https://eip7702.io)
+- [Modular Smart Account Changes](https://github.com/erc7579/erc7579-implementation/pull/38)
