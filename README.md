@@ -31,6 +31,7 @@
 ### EIP-7702 Proxies
 - https://github.com/Vectorized/solady/blob/main/src/accounts/EIP7702Proxy.sol
 - https://github.com/base/eip-7702-proxy
+- https://github.com/openfort-xyz/openfort-contracts/blob/feat/eip-7702/contracts/core/upgradeable/UpgradeableOpenfortProxy7702.sol
 
 ### POCs & Demos
 - Ithaca Demos:
