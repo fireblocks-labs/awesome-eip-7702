@@ -56,7 +56,7 @@
 - [Dynamic EIP-7702 support](https://docs.dynamic.xyz/smart-wallets/smart-wallet-providers/7702#eip-7702)
 
 ### Smart account frameworks
-- [Metamask: Delegation Framework](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702)
+- Metamask: Delegation Framework - [Delegation Framework 7702 Code](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702) / [Delegation Framework 7702 Doc](https://github.com/MetaMask/delegation-framework/blob/main/documents/EIP7702DeleGator.md)
 
 ## Other
 - [Awesome account abstraction repo (EIP-4337)](https://github.com/4337Mafia/awesome-account-abstraction)
