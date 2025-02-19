@@ -54,6 +54,7 @@
 - [Foundry Delegation Signatures](https://book.getfoundry.sh/cheatcodes/sign-delegation)
 - [Micro Eth Signer](https://github.com/paulmillr/micro-eth-signer)
 - [Dynamic EIP-7702 support](https://docs.dynamic.xyz/smart-wallets/smart-wallet-providers/7702#eip-7702)
+- [ZeroDev EIP-7702 support](https://docs.zerodev.app/sdk/getting-started/quickstart-7702)
 
 ### Smart account frameworks
 - Metamask: Delegation Framework - [Delegation Framework 7702 Code](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702) / [Delegation Framework 7702 Doc](https://github.com/MetaMask/delegation-framework/blob/main/documents/EIP7702DeleGator.md)
