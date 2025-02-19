@@ -8,7 +8,7 @@
 - [EIP-7702: Set EOA account code - Ethereum Magicians Thread](https://ethereum-magicians.org/t/eip-7702-set-eoa-account-code/19923)
 
 ### Related suggested EIPs/RIPs (not live/final)
-- [Deactivate/Reactivate a Delegated EOA's Key](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7851.md)
+- [EIP-7851: Deactivate/Reactivate a Delegated EOA's Key](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7851.md)
 - [ERC-7779: Interoperable Delegated Accounts](https://eips.ethereum.org/EIPS/eip-7779)
 
 ## Guides
@@ -29,7 +29,7 @@
 - [EIP-7702: a technical deep dive by lightclient | Devcon SEA](https://www.youtube.com/watch?v=_k5fKlKBWV4)
 - [Age of Account Collaboration: EOA and SCA make friends again by Arik Galansky | EthCC[8] ](https://ethcc.io/archives/age-of-account-collaboration-eoa-and-sca-make-friends-again)
 - [EIP 7702: High level overview + walkthrough of every line of code in the evm (using revm codebase) that changes with it](https://youtube.com/playlist?list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE&si=7RGnFDoBQ57i5yII)
-- [Cantina TV: How EIP-7702 Changes Everything](https://x.com/i/broadcasts/1djGXVBvdvVxZ) - lightclient (Geth & EIP co-author), Adam & Usman (Alchemy) Terence (Offchain Labs), Mark (OP Labs)
+- [Cantina TV: How EIP-7702 Changes Everything](https://x.com/i/broadcasts/1djGXVBvdvVxZ) - lightclient (Geth & EIP co-author), Tony & Hari (Cantina), Adam & Usman (Alchemy) Terence (Offchain Labs), Mark (OP Labs)
 
 
 ## Code
@@ -52,10 +52,11 @@
 ### Tooling support
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
 - [Foundry Delegation Signatures](https://book.getfoundry.sh/cheatcodes/sign-delegation)
+- [Micro Eth Signer](https://github.com/paulmillr/micro-eth-signer)
 - [Dynamic EIP-7702 support](https://docs.dynamic.xyz/smart-wallets/smart-wallet-providers/7702#eip-7702)
 
 ### Smart account frameworks
-- [Metamask: Delegation Framework](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702)
+- Metamask: Delegation Framework - [Delegation Framework 7702 Code](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702) / [Delegation Framework 7702 Doc](https://github.com/MetaMask/delegation-framework/blob/main/documents/EIP7702DeleGator.md)
 
 ## Other
 - [Awesome account abstraction repo (EIP-4337)](https://github.com/4337Mafia/awesome-account-abstraction)
