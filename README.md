@@ -52,6 +52,7 @@
 ### Tooling support
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
 - [Foundry Delegation Signatures](https://book.getfoundry.sh/cheatcodes/sign-delegation)
+- [Micro Eth Signer](https://github.com/paulmillr/micro-eth-signer)
 - [Dynamic EIP-7702 support](https://docs.dynamic.xyz/smart-wallets/smart-wallet-providers/7702#eip-7702)
 
 ### Smart account frameworks
