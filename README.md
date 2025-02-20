@@ -22,6 +22,7 @@
  by Colin](https://hackmd.io/@colinlyguo/SyAZWMmr1x) - A technical deep dive into the technical considerations and potential use cases around EIP-7702.
 - [Tenderly: EIP-7702 How Ethereum’s New Upgrade Brings EOAs Closer to Smart Contracts](https://blog.tenderly.co/how-eip-7702-gives-eoas-smart-contract-functionalities/) - A detailed exploration of how EIP-7702 bridges the gap between externally owned accounts and smart contracts.
 - [Ambire: EIP-7702 Opening the Door to Account Abstraction](https://blog.ambire.com/eip-7702-allowing-account-abstraction/) - EIP-7702 and its practical implications for account abstraction adoption
+- [Sending gaslsss transactions from an EOA with EIP7702](https://raylac.notion.site/eoa-gasless-transactions) - Looking into the nuances of combining 7702 and 4337 for gasless transactions
 
 
 ## Videos
@@ -45,8 +46,9 @@
 
 ### POCs & Demos
 - Ithaca Demos:
-  - [EXP-0001: Account Delegation with EIP-7702 - Ithaca](https://www.ithaca.xyz/writings/exp-0001)
-  - [EXP-0002: App Sessions - Ithaca](https://www.ithaca.xyz/writings/exp-0002)
+  - [EXP-0001: Account Delegation with EIP-7702](https://www.ithaca.xyz/updates/exp-0001)
+  - [EXP-0002: App Sessions](https://www.ithaca.xyz/updates/exp-0002)
+  - [EXP-0003: Application Subscriptions](https://www.ithaca.xyz/updates/exp-0003)
 - [Rhinestone Demo](https://module-demos.rhinestone.wtf/eip-7702)
 
 ### Tooling support
