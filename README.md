@@ -10,6 +10,7 @@
 ### Related suggested EIPs/RIPs (not live/final)
 - [EIP-7851: Deactivate/Reactivate a Delegated EOA's Key](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7851.md)
 - [ERC-7779: Interoperable Delegated Accounts](https://eips.ethereum.org/EIPS/eip-7779)
+- [ERC-7821: Minimal Batch Executor Interface](https://eips.ethereum.org/EIPS/eip-7821)
 
 ## Guides
 - [Safe: EIP-7702 A Win for Smart Accounts in Ethereum’s Pectra Upgrade?](https://safe.global/blog/eip-7702-smart-accounts-ethereum-pectra-upgrade) - An overview of how EIP-7702 powers more flexible and secure smart accounts through the Ethereum PECTRA upgrade.
