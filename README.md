@@ -45,6 +45,9 @@
 - https://github.com/base/eip-7702-proxy
 - https://github.com/openfort-xyz/openfort-contracts/blob/feat/eip-7702/contracts/core/upgradeable/UpgradeableOpenfortProxy7702.sol
 
+### Wallets
+- [Ambire Wallet](https://www.ambire.com/); a browser extension that supports (smarter) EOAs and Smart Accounts in one place
+
 ### POCs & Demos
 - Ithaca Demos:
   - [EXP-0001: Account Delegation with EIP-7702](https://www.ithaca.xyz/updates/exp-0001)
