@@ -25,15 +25,19 @@
 - [Ambire: EIP-7702 Opening the Door to Account Abstraction](https://blog.ambire.com/eip-7702-allowing-account-abstraction/) - EIP-7702 and its practical implications for account abstraction adoption
 - [Sending gaslsss transactions from an EOA with EIP7702](https://raylac.notion.site/eoa-gasless-transactions) - Looking into the nuances of combining 7702 and 4337 for gasless transactions
 - [QuickNode: EIP-7702 Implementation Guide: Build and Test Smart Accounts](https://www.quicknode.com/guides/ethereum-development/smart-contracts/eip-7702-smart-accounts) - A practical tutorial explaining EIP-7702, its benefits, and how to implement it using smart contracts. Includes code examples and deployment instructions.
+- [Fireblocks: 7702’s Superpowers — What makes EIP-7702 great](https://medium.com/fireblocks-tech-blog/7702s-superpowers-what-makes-eip-7702-great-4d2d8325a39f) - A review of EIP-7702 from the lense of a tech decision maker.
 
 
 ## Videos
-
 - [EIP-7702: a technical deep dive by lightclient | Devcon SEA](https://www.youtube.com/watch?v=_k5fKlKBWV4)
 - [Age of Account Collaboration: EOA and SCA make friends again by Arik Galansky | EthCC[8] ](https://ethcc.io/archives/age-of-account-collaboration-eoa-and-sca-make-friends-again)
 - [EIP 7702: High level overview + walkthrough of every line of code in the evm (using revm codebase) that changes with it](https://youtube.com/playlist?list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE&si=7RGnFDoBQ57i5yII)
 - [Cantina TV: How EIP-7702 Changes Everything](https://x.com/i/broadcasts/1djGXVBvdvVxZ) - lightclient (Geth & EIP co-author), Tony & Hari (Cantina), Adam & Usman (Alchemy) Terence (Offchain Labs), Mark (OP Labs)
 
+### Wallets Support
+- [Dynamic](https://docs.dynamic.xyz/smart-wallets/smart-wallet-providers/7702#eip-7702)
+- [ZeroDev](https://docs.zerodev.app/sdk/getting-started/quickstart-7702)
+- [Ambire Wallet](https://www.ambire.com/)
 
 ## Code
 > [!CAUTION]
@@ -46,9 +50,6 @@
 - https://github.com/base/eip-7702-proxy
 - https://github.com/openfort-xyz/openfort-contracts/blob/feat/eip-7702/contracts/core/upgradeable/UpgradeableOpenfortProxy7702.sol
 
-### Wallets
-- [Ambire Wallet](https://www.ambire.com/); a browser extension that supports (smarter) EOAs and Smart Accounts in one place
-
 ### POCs & Demos
 - Ithaca Demos:
   - [EXP-0001: Account Delegation with EIP-7702](https://www.ithaca.xyz/updates/exp-0001)
@@ -60,8 +61,6 @@
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
 - [Foundry Delegation Signatures](https://book.getfoundry.sh/cheatcodes/sign-delegation)
 - [Micro Eth Signer](https://github.com/paulmillr/micro-eth-signer)
-- [Dynamic EIP-7702 support](https://docs.dynamic.xyz/smart-wallets/smart-wallet-providers/7702#eip-7702)
-- [ZeroDev EIP-7702 support](https://docs.zerodev.app/sdk/getting-started/quickstart-7702)
 
 ### Smart account frameworks
 - Metamask: Delegation Framework - [Delegation Framework 7702 Code](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702) / [Delegation Framework 7702 Doc](https://github.com/MetaMask/delegation-framework/blob/main/documents/EIP7702DeleGator.md)
