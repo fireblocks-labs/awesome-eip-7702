@@ -25,7 +25,7 @@
 - [Ambire: EIP-7702 Opening the Door to Account Abstraction](https://blog.ambire.com/eip-7702-allowing-account-abstraction/) - EIP-7702 and its practical implications for account abstraction adoption
 - [Sending gaslsss transactions from an EOA with EIP7702](https://raylac.notion.site/eoa-gasless-transactions) - Looking into the nuances of combining 7702 and 4337 for gasless transactions
 - [QuickNode: EIP-7702 Implementation Guide: Build and Test Smart Accounts](https://www.quicknode.com/guides/ethereum-development/smart-contracts/eip-7702-smart-accounts) - A practical tutorial explaining EIP-7702, its benefits, and how to implement it using smart contracts. Includes code examples and deployment instructions.
-
+- [Biconomy: EIP-7702 Comprehensive Guide](https://blog.biconomy.io/a-comprehensive-eip-7702-guide-for-apps/)
 
 ## Videos
 
