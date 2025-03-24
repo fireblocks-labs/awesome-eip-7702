@@ -57,6 +57,7 @@
   - [EXP-0002: App Sessions](https://www.ithaca.xyz/updates/exp-0002)
   - [EXP-0003: Application Subscriptions](https://www.ithaca.xyz/updates/exp-0003)
 - [Rhinestone Demo](https://module-demos.rhinestone.wtf/eip-7702)
+- [Otim App](https://app.otim.com)
 
 ### Tooling support
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
