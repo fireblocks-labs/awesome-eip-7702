@@ -14,7 +14,8 @@
 
 ## Guides
 - [Safe: EIP-7702 A Win for Smart Accounts in Ethereum’s Pectra Upgrade?](https://safe.global/blog/eip-7702-smart-accounts-ethereum-pectra-upgrade) - An overview of how EIP-7702 powers more flexible and secure smart accounts through the Ethereum PECTRA upgrade.
-- [ZeroDev: What does EIP-7702 mean for YOU? Part 1](https://docs.zerodev.app/blog/7702-adoption) - A concise guide to the growing adoption of EIP-7702 and its impact on the future of account abstraction.
+- [ZeroDev: What does EIP-7702 mean for YOU? Part 1 - The Adoption Cycle](https://docs.zerodev.app/blog/7702-adoption) - Examining how the adoption of EIP-7702 will play out.
+- [ZeroDev: What does EIP-7702 mean for YOU? Part 2 - DApp Developers](https://docs.zerodev.app/blog/7702-for-dapps) - A guide for how DApp developers can adopt EIP-7702.
 - [Alchemy: EIP-7702 and How You Should Prepare for the Pectra Hardfork](https://www.alchemy.com/blog/eip-7702-ethereum-pectra-hardfork?utm_source=what_is_7702) - Consideration towards choosing tech stack with 7702 and 4337 as options.
 - [Alchemy: What EIP-7702 Means for MetaMask and Other Wallets](https://www.alchemy.com/blog/eip-7702-metamask-and-wallets) - A look at how EIP-7702 changes the landscape for MetaMask and other wallets by introducing smart account capabilities.
 - [Rhinestone: Getting Smart Accounts EIP-7702 Ready](https://blog.rhinestone.wtf/getting-smart-accounts-eip-7702-ready-27bf028a21c9) - Practical insights on preparing smart account implementations for EIP-7702 compatibility.
