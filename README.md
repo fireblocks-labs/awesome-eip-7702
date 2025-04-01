@@ -28,7 +28,8 @@
 - [QuickNode: EIP-7702 Implementation Guide: Build and Test Smart Accounts](https://www.quicknode.com/guides/ethereum-development/smart-contracts/eip-7702-smart-accounts) - A practical tutorial explaining EIP-7702, its benefits, and how to implement it using smart contracts. Includes code examples and deployment instructions.
 - [Fireblocks: 7702’s Superpowers — What makes EIP-7702 great](https://medium.com/fireblocks-tech-blog/7702s-superpowers-what-makes-eip-7702-great-4d2d8325a39f) - A review of EIP-7702 from the lense of a tech decision maker.
 - [Fireblocks: Security First Approach to EIP-7702](https://medium.com/fireblocks-tech-blog/security-first-approach-to-eip-7702-9c5d685793fd) - We analyze the security aspects around EIP-7702 and how to mitigate risks.
-- [Biconomy: EIP-7702 Comprehensive Guide for Apps](https://blog.biconomy.io/a-comprehensive-eip-7702-guide-for-apps/) - A zero-to-hero guide for app developers to understand how they can leverage EIP-7702 since wallets will not allow them to sign delegations. 
+- [Biconomy: EIP-7702 Comprehensive Guide for Apps](https://blog.biconomy.io/a-comprehensive-eip-7702-guide-for-apps/) - A zero-to-hero guide for app developers to understand how they can leverage EIP-7702 since wallets will not allow them to sign delegations.
+- [Using EIP-7702 accounts with ERC-4337](https://docs.google.com/document/d/1w3xB_B1PUYRDnnCXSsLZXQVerjiw0_72NxvQwhdrWeU/edit?usp=sharing)
 
 
 ## Videos
