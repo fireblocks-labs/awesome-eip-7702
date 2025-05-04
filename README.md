@@ -31,7 +31,7 @@
 - [Biconomy: EIP-7702 Comprehensive Guide for Apps](https://blog.biconomy.io/a-comprehensive-eip-7702-guide-for-apps/) - A zero-to-hero guide for app developers to understand how they can leverage EIP-7702 since wallets will not allow them to sign delegations.
 - [Using EIP-7702 accounts with ERC-4337](https://docs.google.com/document/d/1w3xB_B1PUYRDnnCXSsLZXQVerjiw0_72NxvQwhdrWeU/edit?usp=sharing)
 - [Otim: Wallet Walled Gardens: Breaking Down Barriers in EIP-7702 Delegation](https://otim.com/blog/wallet-walled-gardens)
-
+- [Common misconceptions about EIP-7702](https://blog.ambire.com/eip-7702-misconceptions/)
 
 ## Videos
 - [EIP-7702: a technical deep dive by lightclient | Devcon SEA](https://www.youtube.com/watch?v=_k5fKlKBWV4)
