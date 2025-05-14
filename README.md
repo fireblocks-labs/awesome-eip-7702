@@ -39,10 +39,17 @@
 - [EIP 7702: High level overview + walkthrough of every line of code in the evm (using revm codebase) that changes with it](https://youtube.com/playlist?list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE&si=7RGnFDoBQ57i5yII)
 - [Cantina TV: How EIP-7702 Changes Everything](https://x.com/i/broadcasts/1djGXVBvdvVxZ) - lightclient (Geth & EIP co-author), Tony & Hari (Cantina), Adam & Usman (Alchemy) Terence (Offchain Labs), Mark (OP Labs)
 
-### Wallets Support
+### Wallets Support Updates
+- [Metamask](https://metamask.io/news/metamask-feature-update-smart-accounts)
 - [Dynamic](https://docs.dynamic.xyz/smart-wallets/smart-wallet-providers/7702#eip-7702)
 - [ZeroDev](https://docs.zerodev.app/sdk/getting-started/quickstart-7702)
-- [Ambire Wallet](https://www.ambire.com/)
+- [Ambire Wallet](https://blog.ambire.com/eip-7702-wallet/)
+- [Trust Wallet](https://beincrypto.com/trust-wallet-ethereum-eip7702-support/)
+- [OKX Wallet](https://web3.okx.com/help/okx-wallet-to-support-eip-7702)
+
+### Blockchain Support
+- [https://7702checker.azfuller.com/chains](https://7702checker.azfuller.com/chains) - Which blockchains support EIP-7702
+  - May 14th list: Ethereum + Sepolia testnet, Gnosis, BNB Smart Chain, OP, Base, Ink, Unichain, Zora, Soneium, Mode, Scroll, 
 
 ## Code
 > [!CAUTION]
@@ -67,6 +74,7 @@
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
 - [Foundry Delegation Signatures](https://book.getfoundry.sh/cheatcodes/sign-delegation)
 - [Micro Eth Signer](https://github.com/paulmillr/micro-eth-signer)
+- [Wallet Checker](https://7702checker.azfuller.com/)
 
 ### Smart account frameworks
 - Metamask: Delegation Framework - [Delegation Framework 7702 Code](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702) / [Delegation Framework 7702 Doc](https://github.com/MetaMask/delegation-framework/blob/main/documents/EIP7702DeleGator.md)
