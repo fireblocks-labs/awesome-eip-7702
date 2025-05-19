@@ -32,12 +32,14 @@
 - [Using EIP-7702 accounts with ERC-4337](https://docs.google.com/document/d/1w3xB_B1PUYRDnnCXSsLZXQVerjiw0_72NxvQwhdrWeU/edit?usp=sharing)
 - [Otim: Wallet Walled Gardens: Breaking Down Barriers in EIP-7702 Delegation](https://otim.com/blog/wallet-walled-gardens)
 - [Common misconceptions about EIP-7702](https://blog.ambire.com/eip-7702-misconceptions/)
+- [Openfort: Delegation Contract capabilities](https://www.openfort.io/blog/erc7702-part2)
 
 ## Videos
 - [EIP-7702: a technical deep dive by lightclient | Devcon SEA](https://www.youtube.com/watch?v=_k5fKlKBWV4)
 - [Age of Account Collaboration: EOA and SCA make friends again by Arik Galansky | EthCC[8] ](https://ethcc.io/archives/age-of-account-collaboration-eoa-and-sca-make-friends-again)
 - [EIP 7702: High level overview + walkthrough of every line of code in the evm (using revm codebase) that changes with it](https://youtube.com/playlist?list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE&si=7RGnFDoBQ57i5yII)
 - [Cantina TV: How EIP-7702 Changes Everything](https://x.com/i/broadcasts/1djGXVBvdvVxZ) - lightclient (Geth & EIP co-author), Tony & Hari (Cantina), Adam & Usman (Alchemy) Terence (Offchain Labs), Mark (OP Labs)
+- [EIP7702 and ERC 4337 | Openfort](https://www.youtube.com/watch?v=94VhTY-1ZsI)
 
 ### Wallets Support Updates
 - [Metamask](https://metamask.io/news/metamask-feature-update-smart-accounts)
@@ -46,6 +48,7 @@
 - [Ambire Wallet](https://blog.ambire.com/eip-7702-wallet/)
 - [Trust Wallet](https://beincrypto.com/trust-wallet-ethereum-eip7702-support/)
 - [OKX Wallet](https://web3.okx.com/help/okx-wallet-to-support-eip-7702)
+- [Openfort](https://openfort.io/blog/building-a-passwordless-wallet)
 
 ### Blockchain Support
 - [https://7702checker.azfuller.com/chains](https://7702checker.azfuller.com/chains) - Which blockchains support EIP-7702
@@ -69,6 +72,7 @@
   - [EXP-0003: Application Subscriptions](https://www.ithaca.xyz/updates/exp-0003)
 - [Rhinestone Demo](https://module-demos.rhinestone.wtf/eip-7702)
 - [Otim App](https://app.otim.com)
+- [Openfort Demo](https://7702.openfort.xyz)
 
 ### Tooling support
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
