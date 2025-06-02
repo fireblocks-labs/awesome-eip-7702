@@ -35,7 +35,8 @@
 
 ## Videos
 - [EIP-7702: a technical deep dive by lightclient | Devcon SEA](https://www.youtube.com/watch?v=_k5fKlKBWV4)
-- [Age of Account Collaboration: EOA and SCA make friends again by Arik Galansky | EthCC[8] ](https://ethcc.io/archives/age-of-account-collaboration-eoa-and-sca-make-friends-again)
+- [Age of Account Collaboration: EOA and SCA make friends again by Arik Galansky | EthCC 8](https://ethcc.io/archives/age-of-account-collaboration-eoa-and-sca-make-friends-again)
+- [EIP-7702 & MPC: A love story - Arik Galansky](https://www.youtube.com/watch?v=ujYWdQggRwc)
 - [EIP 7702: High level overview + walkthrough of every line of code in the evm (using revm codebase) that changes with it](https://youtube.com/playlist?list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE&si=7RGnFDoBQ57i5yII)
 - [Cantina TV: How EIP-7702 Changes Everything](https://x.com/i/broadcasts/1djGXVBvdvVxZ) - lightclient (Geth & EIP co-author), Tony & Hari (Cantina), Adam & Usman (Alchemy) Terence (Offchain Labs), Mark (OP Labs)
 - [Deep Dive into Ethereum 7702 Smart Accounts: security risks, footguns and testing | The Red Guild](https://www.youtube.com/watch?v=ZFN2bYt9gNE)
@@ -50,7 +51,11 @@
 
 ### Blockchain Support
 - [https://7702checker.azfuller.com/chains](https://7702checker.azfuller.com/chains) - Which blockchains support EIP-7702
-  - May 14th list: Ethereum + Sepolia testnet, Gnosis, BNB Smart Chain, OP, Base, Ink, Unichain, Zora, Soneium, Mode, Scroll, 
+  - May 14th list: Ethereum + Sepolia testnet, Gnosis, BNB Smart Chain, OP, Base, Ink, Unichain, Zora, Soneium, Mode, Scroll,
+ 
+## Data
+- [BundleBear EIP-7702 Metrics](https://www.bundlebear.com/eip7702-overview/all)
+- [Wintermute EIP-7702 Dune Dashboard](https://dune.com/wintermute_research/eip7702)
 
 ## Code
 > [!CAUTION]
