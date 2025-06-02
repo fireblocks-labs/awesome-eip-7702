@@ -38,6 +38,7 @@
 - [Age of Account Collaboration: EOA and SCA make friends again by Arik Galansky | EthCC[8] ](https://ethcc.io/archives/age-of-account-collaboration-eoa-and-sca-make-friends-again)
 - [EIP 7702: High level overview + walkthrough of every line of code in the evm (using revm codebase) that changes with it](https://youtube.com/playlist?list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE&si=7RGnFDoBQ57i5yII)
 - [Cantina TV: How EIP-7702 Changes Everything](https://x.com/i/broadcasts/1djGXVBvdvVxZ) - lightclient (Geth & EIP co-author), Tony & Hari (Cantina), Adam & Usman (Alchemy) Terence (Offchain Labs), Mark (OP Labs)
+- [Deep Dive into Ethereum 7702 Smart Accounts: security risks, footguns and testing | The Red Guild](https://www.youtube.com/watch?v=ZFN2bYt9gNE)
 
 ### Wallets Support Updates
 - [Metamask](https://metamask.io/news/metamask-feature-update-smart-accounts)
