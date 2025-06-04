@@ -75,6 +75,7 @@
   - [EXP-0003: Application Subscriptions](https://www.ithaca.xyz/updates/exp-0003)
 - [Rhinestone Demo](https://module-demos.rhinestone.wtf/eip-7702)
 - [Otim App](https://app.otim.com)
+- [White Hat Frontrunning](https://github.com/pcaversaccio/white-hat-frontrunning/tree/main)
 
 ### Tooling support
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
