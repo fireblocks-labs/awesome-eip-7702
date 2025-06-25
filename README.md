@@ -50,8 +50,9 @@
 - [OKX Wallet](https://web3.okx.com/help/okx-wallet-to-support-eip-7702)
 
 ### Blockchain Support
-- [https://7702checker.azfuller.com/chains](https://7702checker.azfuller.com/chains) - Which blockchains support EIP-7702
-  - May 14th list: Ethereum + Sepolia testnet, Gnosis, BNB Smart Chain, OP, Base, Ink, Unichain, Zora, Soneium, Mode, Scroll,
+- [7702 Beat](https://swiss-knife.xyz/7702beat) - by Swiss-knife.xyz
+- [7702 Checker](https://7702checker.azfuller.com/chains) - by Adam Fuller
+  - June 25th list: Ethereum + Sepolia testnet, Gnosis, BNB Smart Chain, OP, Base, Ink, Unichain, Zora, Soneium, Mode, Scroll, Arbitrum One, Berachain, Polygon
  
 ## Data
 - [BundleBear EIP-7702 Metrics](https://www.bundlebear.com/eip7702-overview/all)
