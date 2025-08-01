@@ -32,6 +32,7 @@
 - [Using EIP-7702 accounts with ERC-4337](https://docs.google.com/document/d/1w3xB_B1PUYRDnnCXSsLZXQVerjiw0_72NxvQwhdrWeU/edit?usp=sharing)
 - [Otim: Wallet Walled Gardens: Breaking Down Barriers in EIP-7702 Delegation](https://otim.com/blog/wallet-walled-gardens)
 - [Common misconceptions about EIP-7702](https://blog.ambire.com/eip-7702-misconceptions/)
+- [Build a paswordless wallet with webauthn and 7702](https://www.openfort.io/blog/building-a-passwordless-wallet)
 
 ## Videos
 - [EIP-7702: a technical deep dive by lightclient | Devcon SEA](https://www.youtube.com/watch?v=_k5fKlKBWV4)
@@ -40,6 +41,7 @@
 - [EIP 7702: High level overview + walkthrough of every line of code in the evm (using revm codebase) that changes with it](https://youtube.com/playlist?list=PLYYidDLT5Dd-7s3rbuAy3vJxAjz17bSEE&si=7RGnFDoBQ57i5yII)
 - [Cantina TV: How EIP-7702 Changes Everything](https://x.com/i/broadcasts/1djGXVBvdvVxZ) - lightclient (Geth & EIP co-author), Tony & Hari (Cantina), Adam & Usman (Alchemy) Terence (Offchain Labs), Mark (OP Labs)
 - [Deep Dive into Ethereum 7702 Smart Accounts: security risks, footguns and testing | The Red Guild](https://www.youtube.com/watch?v=ZFN2bYt9gNE)
+- [EIP-7702 with ERC-4337 Deep Dive](https://www.youtube.com/watch?v=bE7YUrThS5k&t=6s)
 
 ### Wallets Support Updates
 - [Metamask](https://metamask.io/news/metamask-feature-update-smart-accounts)
@@ -48,6 +50,7 @@
 - [Ambire Wallet](https://blog.ambire.com/eip-7702-wallet/)
 - [Trust Wallet](https://beincrypto.com/trust-wallet-ethereum-eip7702-support/)
 - [OKX Wallet](https://web3.okx.com/help/okx-wallet-to-support-eip-7702)
+- [Openfort](https://www.openfort.io/docs/products/embedded-wallet/7702#quickstart---7702-accounts)
 
 ### Blockchain Support
 - [7702 Beat](https://swiss-knife.xyz/7702beat) - by Swiss-knife.xyz
@@ -67,7 +70,7 @@
 ### EIP-7702 Proxies
 - https://github.com/Vectorized/solady/blob/main/src/accounts/EIP7702Proxy.sol
 - https://github.com/base/eip-7702-proxy
-- https://github.com/openfort-xyz/openfort-contracts/blob/feat/eip-7702/contracts/core/upgradeable/UpgradeableOpenfortProxy7702.sol
+- https://github.com/openfort-xyz/openfort-7702-account
 
 ### POCs & Demos
 - Ithaca Demos:
@@ -77,6 +80,7 @@
 - [Rhinestone Demo](https://module-demos.rhinestone.wtf/eip-7702)
 - [Otim App](https://app.otim.com)
 - [White Hat Frontrunning](https://github.com/pcaversaccio/white-hat-frontrunning/tree/main)
+- [Openfort Demo](https://7702.openfort.xyz/)
 
 ### Tooling support
 - [Viem Experimental EIP-7702 Support](https://viem.sh/experimental/eip7702)
