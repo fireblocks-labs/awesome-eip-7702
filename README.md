@@ -60,6 +60,7 @@
 ## Data
 - [BundleBear EIP-7702 Metrics](https://www.bundlebear.com/eip7702-overview/all)
 - [Wintermute EIP-7702 Dune Dashboard](https://dune.com/wintermute_research/eip7702)
+- [OpenChainBench](https://openchainbench.com) - Live RPC provider benchmarks and L1 finality measurements — infrastructure data relevant to EIP-7702 wallet UX and reliability.
 
 ## Code
 > [!CAUTION]
