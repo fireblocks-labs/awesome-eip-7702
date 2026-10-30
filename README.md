@@ -89,6 +89,7 @@
 - [Wallet Checker](https://7702checker.azfuller.com/)
 - [EIP-7702 Delegation Checker](https://eip7702.app/)
 - [Check EIP-7702 Delegation](https://eip7702.app/)
+- [7702 Sweeper Check](https://github.com/devx-agent/7702-sweeper-check) - Checks an address for EIP-7702 delegations on 8 chains at once and flags sweeper-like delegate bytecode; web, CLI (`npx devx-7702-check`) and MCP server.
 
 ### Smart account frameworks
 - Metamask: Delegation Framework - [Delegation Framework 7702 Code](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702) / [Delegation Framework 7702 Doc](https://github.com/MetaMask/delegation-framework/blob/main/documents/EIP7702DeleGator.md)
