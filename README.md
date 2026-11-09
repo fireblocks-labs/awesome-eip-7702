@@ -33,6 +33,7 @@
 - [Otim: Wallet Walled Gardens: Breaking Down Barriers in EIP-7702 Delegation](https://otim.com/blog/wallet-walled-gardens)
 - [Common misconceptions about EIP-7702](https://blog.ambire.com/eip-7702-misconceptions/)
 - [Build a paswordless wallet with webauthn and 7702](https://www.openfort.io/blog/building-a-passwordless-wallet)
+- [MEV DAO: How to Check and Remove a Malicious EIP-7702 Delegation](https://mevdao.org/blog/how-to-check-and-remove-a-malicious-eip-7702-delegation) - Incident-response guide for EOAs delegated through phishing or a leaked key: reading the 0xef0100 designator, telling a wallet's own delegation apart from an attacker's, and clearing it with a zero-address authorization.
 
 ## Videos
 - [EIP-7702: a technical deep dive by lightclient | Devcon SEA](https://www.youtube.com/watch?v=_k5fKlKBWV4)
