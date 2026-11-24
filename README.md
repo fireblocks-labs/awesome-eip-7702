@@ -89,6 +89,7 @@
 - [Wallet Checker](https://7702checker.azfuller.com/)
 - [EIP-7702 Delegation Checker](https://eip7702.app/)
 - [Check EIP-7702 Delegation](https://eip7702.app/)
+- [UNSWEEP](https://github.com/unsweep/unsweep) - Open-source (MIT) EIP-7702 tool for rescuing remaining ERC-20 tokens from compromised/sweeper-drained wallets on Base and Arbitrum without sending gas.
 
 ### Smart account frameworks
 - Metamask: Delegation Framework - [Delegation Framework 7702 Code](https://github.com/MetaMask/delegation-framework/tree/main/src/EIP7702) / [Delegation Framework 7702 Doc](https://github.com/MetaMask/delegation-framework/blob/main/documents/EIP7702DeleGator.md)
